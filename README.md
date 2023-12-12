@@ -12,7 +12,7 @@ Setup:
 3. Run requirments.txt file
      1. pip install -r requirements.txt
         
-4. pull quotes folder from github inside of env folder
+4. pull quotes folder from github and place inside of env folder
 5. To detect changed made to the DB run: "python manage.py makemigrations"
 6. To apply chages to DB run: "python manage.py migrate"
 7. To run server run: "python manage.py runserver"
